@@ -19,6 +19,9 @@
 ## Retornar com limit
 ![image](https://user-images.githubusercontent.com/85765801/169156067-1d441feb-0552-4761-ab2e-cfa94eda14a1.png)
 
+## Retornar pulando os primeiros resultados
+![image](https://user-images.githubusercontent.com/85765801/169157064-90bf0c2a-24af-4163-8793-637bac250085.png)
+
 ## Filtrar por propriedade
 ![image](https://user-images.githubusercontent.com/85765801/169156203-204368f6-da3d-433a-bb5b-f2b1a18b0c89.png)
 
