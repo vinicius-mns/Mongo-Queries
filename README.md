@@ -13,7 +13,7 @@
 ## Retornar todos
 ![image](https://user-images.githubusercontent.com/85765801/169156001-6535db09-0b64-4f1b-a977-33eca4602d41.png)
 
-## REtirnar um
+## Retornar um
 ![image](https://user-images.githubusercontent.com/85765801/169156339-a1d34972-16aa-4c56-8b20-a8cd58075c17.png)
 
 ## Retornar com limit
